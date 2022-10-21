@@ -40,4 +40,4 @@ void ElementSearch (int[,]matrix, int m, int n)
 }
 int[,]resultMatrix = CreateMatrix(7,7);
 PrintMatrix(resultMatrix);
-ElementSearch(resultMatrix, 7, 7);
+ElementSearch (resultMatrix, 5, 6);
